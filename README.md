@@ -8,6 +8,8 @@ While configuring the project, I ran into an error that was difficult to diagnos
 You probably need to add a repository containing the '[com.google.googlejavaformat:google-java-format:1.8]' artifact in the 'build.gradle' of your root project.
 ```
 
+Fix it by adding a `build.gradle` file to the root directory.
+
 ## Configuration
 
 How the project was configured:
